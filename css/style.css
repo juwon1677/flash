@@ -1,0 +1,11 @@
+#js-showing{
+  display: none;
+}
+.click{
+  text-decoration: underline;
+  color: aquamarine;
+}
+.card{
+  height: 70px;
+  
+}
