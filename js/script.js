@@ -5,10 +5,15 @@ $("js-hidden").toggle();
 })
 
 $(".click").click(function() {
-  $("#ks-showing").toggle();
-  $("ks-hidden").toggle();
+  $("#js-showing").toggle();
+  $("js-hidden").toggle();
   })
 
+
+  $(".click").click(function() {
+    $("#js-showing").toggle();
+    $("js-hidden").toggle();
+    })
 
 
 
