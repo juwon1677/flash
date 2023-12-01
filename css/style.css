@@ -9,3 +9,58 @@
   height: 70px;
   
 }
+#operator-showing{
+  display: none;
+}
+.click-2{
+  text-decoration: underline;
+  color: aquamarine;
+}
+.card{
+  height: 70px;
+  
+}
+#variable-showing{
+  display: none;
+}
+.click-3{
+  text-decoration: underline;
+  color: aquamarine;
+}
+.card{
+  height: 70px;
+  
+}
+#convention-showing{
+  display: none;
+}
+.click-4{
+  text-decoration: underline;
+  color: aquamarine;
+}
+.card{
+  height: 70px;
+  
+}
+#function-showing{
+  display: none;
+}
+.click-5{
+  text-decoration: underline;
+  color: aquamarine;
+}
+.card{
+  height: 70px;
+  
+}
+#method-showing{
+  display: none;
+}
+.click-6{
+  text-decoration: underline;
+  color: aquamarine;
+}
+.card{
+  height: 70px;
+  
+}
