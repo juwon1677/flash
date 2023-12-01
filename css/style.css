@@ -186,3 +186,25 @@
   height: 70px;
   
 }
+#comment-showing{
+  display: none;
+}
+.click-17{
+  text-decoration: underline;
+  color: aquamarine;
+}
+.card{
+  height: 70px;
+  
+}
+#jquery-showing{
+  display: none;
+}
+.click-18{
+  text-decoration: underline;
+  color: aquamarine;
+}
+.card{
+  height: 70px;
+  
+}

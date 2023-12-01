@@ -77,7 +77,17 @@ $(".click-2").click(function() {
                             $("#alert-showing").toggle();
                             $("alert-hidden").toggle();
                             })
-                    
+                            $(".click-17").click(function() {
+                              $("#comment-showing").toggle();
+                              $("comment-hidden").toggle();
+                              })
+
+                              $(".click-18").click(function() {
+                                $("#jquery-showing").toggle();
+                                $("jquery-hidden").toggle();
+                                })
+                        
+                      
             
               
             
