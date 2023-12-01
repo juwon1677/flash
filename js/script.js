@@ -28,6 +28,34 @@ $(".click-2").click(function() {
         $("#method-showing").toggle();
         $("method-hidden").toggle();
         })
+
+        $(".click-7").click(function() {
+          $("#arguement-showing").toggle();
+          $("arguement-hidden").toggle();
+          })
+        
+          $(".click-8").click(function() {
+            $("#parameters-showing").toggle();
+            $("parameters-hidden").toggle();
+            })
+
+            $(".click-9").click(function() {
+              $("#return-showing").toggle();
+              $("return-hidden").toggle();
+              })
+
+              $(".click-11").click(function() {
+                $("#strings-showing").toggle();
+                $("strings-hidden").toggle();
+                })
+
+                $(".click-10").click(function() {
+                  $("#chain-showing").toggle();
+                  $("chain-hidden").toggle();
+                  })
+          
+            
+        
       
     
 
