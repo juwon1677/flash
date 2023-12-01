@@ -208,3 +208,14 @@
   height: 70px;
   
 }
+#attribute-showing{
+  display: none;
+}
+.click-19{
+  text-decoration: underline;
+  color: aquamarine;
+}
+.card{
+  height: 70px;
+  
+}

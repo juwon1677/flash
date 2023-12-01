@@ -86,6 +86,11 @@ $(".click-2").click(function() {
                                 $("#jquery-showing").toggle();
                                 $("jquery-hidden").toggle();
                                 })
+
+                                $(".click-19").click(function() {
+                                  $("#attribute-showing").toggle();
+                                  $("attribute-hidden").toggle();
+                                  })
                         
                       
             
