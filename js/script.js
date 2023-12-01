@@ -53,7 +53,33 @@ $(".click-2").click(function() {
                   $("#chain-showing").toggle();
                   $("chain-hidden").toggle();
                   })
-          
+                  $(".click-12").click(function() {
+                    $("#boolean-showing").toggle();
+                    $("boolean-hidden").toggle();
+                    })
+
+                    $(".click-13").click(function() {
+                      $("#undefined-showing").toggle();
+                      $("undefined-hidden").toggle();
+                      })
+              
+                      $(".click-14").click(function() {
+                        $("#nan-showing").toggle();
+                        $("nan-hidden").toggle();
+                        })
+                
+                        $(".click-15").click(function() {
+                          $("#null-showing").toggle();
+                          $("null-hidden").toggle();
+                          })
+                  
+                          $(".click-16").click(function() {
+                            $("#alert-showing").toggle();
+                            $("alert-hidden").toggle();
+                            })
+                    
+            
+              
             
         
       

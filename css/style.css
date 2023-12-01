@@ -131,3 +131,58 @@
   height: 70px;
   
 }
+#boolean-showing{
+  display: none;
+}
+.click-12{
+  text-decoration: underline;
+  color: aquamarine;
+}
+.card{
+  height: 70px;
+  
+}
+#undefined-showing{
+  display: none;
+}
+.click-13{
+  text-decoration: underline;
+  color: aquamarine;
+}
+.card{
+  height: 70px;
+  
+}
+#nan-showing{
+  display: none;
+}
+.click-14{
+  text-decoration: underline;
+  color: aquamarine;
+}
+.card{
+  height: 70px;
+  
+}
+#null-showing{
+  display: none;
+}
+.click-15{
+  text-decoration: underline;
+  color: aquamarine;
+}
+.card{
+  height: 70px;
+  
+}
+#alert-showing{
+  display: none;
+}
+.click-16{
+  text-decoration: underline;
+  color: aquamarine;
+}
+.card{
+  height: 70px;
+  
+}
